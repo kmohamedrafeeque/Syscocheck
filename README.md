@@ -1,5 +1,7 @@
 This detect your system spec ans suggest the games and application 
+
 unzip this file 
+
  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
 Visual Studio Code
